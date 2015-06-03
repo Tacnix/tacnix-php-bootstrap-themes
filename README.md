@@ -1,4 +1,4 @@
-tacnix-free-bootstrap-theme
+tacnix-bootstrap-theme
 =============================
 
 Free bootstrap theme  
