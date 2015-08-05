@@ -1,12 +1,12 @@
-tacnix-php-bootstrap-theme
-==================================
+Tacnix Web Studio Themes [PHP +Bootstrap]
+==========================================
 
-PHP Bootstrap theme  
-website URL： http://tacnix.com/php-bootstrap-themes
+PHP +Bootstrap theme  
+website URL： http://tacnix.com/themes/bootstrap/php
 Preview:  
-	Blue Nile Admin: http://tacnix.com/php-bootstrap-themes/preview/bluenile  
-	Black Tie Admin: http://tacnix.com/php-bootstrap-themes/preview/blacktie  
-	Wintertide Admin: http://tacnix.com/php-bootstrap-themes/preview/wintertide  
+	Blue Nile Admin: http://tacnix.com/themes/bootstrap/php/bluenile/preview
+	Black Tie Admin: http://tacnix.com/themes/bootstrap/php/blacktie/preview
+	Wintertide Admin: http://tacnix.com/themes/bootstrap/php/wintertide/preview  
 	
 ##license
-http://tacnix.com/php-bootstrap-themes/license
+http://tacnix.com/themes/bootstrap/php/license
